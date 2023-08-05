@@ -7,7 +7,9 @@ This repository contains code to detect QR code in an image Using SAM model. Web
  
 
 ## Files
-
+* `sam_sam.py` : Contains the code regarding fine tune the SAM model.
+* `Image_formating`: Contains code regarding formating the image as required by the sam  model.
+* `sam_sam_app.py` : Contains the code regarding deploying the finetuned SAM model on streamlit application.
 
 
 ## Libraries and Versions
