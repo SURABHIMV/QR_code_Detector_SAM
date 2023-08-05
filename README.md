@@ -1,6 +1,6 @@
 # QR_code_Detector_SAM
 
-This repository contains code to detect QR code in an image Using SAM model.And it gives the required result using the streamlit application.
+This repository contains code to detect QR code in an image Using SAM model. Web application used is Streamlit.
 
 ## Roadmap to reproduce the result
 
