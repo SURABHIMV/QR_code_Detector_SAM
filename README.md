@@ -28,7 +28,7 @@ The code requires python>=3.8, as well as Pytorch >=1.7 and Torchvision >=0.8. I
 * `spyder==5.4.3`
 * `pillow==9.4.0`
 * `pip install git+https://github.com/huggingface/transformers.git`
-* `pip install monai'
+* `pip install monai`
 * `pip inatall tensorboard`
 
 
